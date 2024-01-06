@@ -60,6 +60,52 @@
 				"hash": "dcd8e1d966e419fd79ce8d229103cd395e2d9330",
 				"url": "/sonolus/repository/LevelData/dcd8e1d966e419fd79ce8d229103cd395e2d9330"
 			}
+		},
+		{
+			"name": "debug-00002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Slider Rules Test"
+			},
+			"artists": {
+				"en": "None"
+			},
+			"author": {
+				"en": "None"
+			},
+			"description": {
+				"en": ""
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssurgents"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/LevelCover/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "8b1f8dbca9a6ff5605452e43c34df536b98cfdfa",
+				"url": "/sonolus/repository/LevelBgm/8b1f8dbca9a6ff5605452e43c34df536b98cfdfa"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "fe6cbcfaad034181a584e80dd4b2b9d9c9ffeed2",
+				"url": "/sonolus/repository/LevelData/fe6cbcfaad034181a584e80dd4b2b9d9c9ffeed2"
+			}
 		}
 	],
 	"skins": [
